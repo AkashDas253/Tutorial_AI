@@ -34,6 +34,8 @@
 - [Definition](lessons/dl/lessons/definition/readme.md)
 - [Core Characteristics](lessons/dl/lessons/core_characteristics/readme.md)
 - [Types of Neural Networks](lessons/dl/lessons/types_of_neural_networks/readme.md)
+    - [GAN](lessons/dl/lessons/gan/readme.md): 
+        - [Wassertein GAN](lessons/dl/lessons/wagan/readme.md)
 - [Architecture Components](lessons/dl/lessons/architecture_components/readme.md)
     - [Activation Functions](lessons/dl/lessons/activation_functions/readme.md)
     - [Optimizers](lessons/dl/lessons/optimizers/readme.md)
