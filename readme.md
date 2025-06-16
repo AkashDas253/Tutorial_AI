@@ -36,6 +36,8 @@
 - [Types of Neural Networks](lessons/dl/lessons/types_of_neural_networks/readme.md)
     - [GAN](lessons/dl/lessons/gan/readme.md): 
         - [Wassertein GAN](lessons/dl/lessons/wagan/readme.md)
+        - [Bayesian GAN (BayesGAN or BAGAN)](lessons/dl/lessons/bayesian_gan/readme.md)
+        - [Balancing GAN](lessons/dl/lessons/balancing_gan/readme.md)
 - [Architecture Components](lessons/dl/lessons/architecture_components/readme.md)
     - [Activation Functions](lessons/dl/lessons/activation_functions/readme.md)
     - [Optimizers](lessons/dl/lessons/optimizers/readme.md)
