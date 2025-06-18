@@ -59,7 +59,13 @@
 
 ### [Synthetic Data Generation](lessons/ml/lessons/synthetic_data_generation/readme.md)
 - [SMOTE](lessons/ml/lessons/SMOTE/readme.md)
+- [ADASYN](lessons/ml/lessons/ADASYN/readme.md)
 - [GAN](lessons/dl/lessons/gan/readme.md), [WGAN](lessons/dl/lessons/wagan/readme.md)
+
+### [Dimensionality Reduction](lessons/ml/lessons/dimensionality_reduction/readme.md)
+- [PCA](lessons/ml/lessons/PCA/readme.md)
+- [LDA](lessons/ml/lessons/LDA/readme.md)
+- [t-sne](lessons/ml/lessons/t_sne/readme.md)
 
 ### [Evaluation Metrics](lessons/ml/lessons/evaluation_metrices/readme.md)
 
