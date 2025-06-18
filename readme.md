@@ -35,6 +35,7 @@
 - [Challenges](lessons/ml/lessons/challenges/readme.md)
 - [Trends and Future Directions](lessons/ml/lessons/trends_future_directions/readme.md)
 - [Structure of ML project](lessons/ml/lessons/project_structure/readme.md)
+- [Ensemble](lessons/ml/lessons/ensemble/readme.md)
 
 ### Deep Learning (DL)
 - [Deep Learning (DL)](lessons/dl/lessons/dl/readme.md)
