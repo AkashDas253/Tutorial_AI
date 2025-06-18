@@ -57,6 +57,11 @@
 - [Challenges](lessons/dl/lessons/challenges/readme.md)
 - [Trends and Future Directions](lessons/dl/lessons/trends_future_directions/readme.md)
 
+### [Synthetic Data Generation](lessons/ml/lessons/synthetic_data_generation/readme.md)
+- [SMOTE](lessons/ml/lessons/SMOTE/readme.md)
+- [GAN](lessons/dl/lessons/gan/readme.md), [WGAN](lessons/dl/lessons/wagan/readme.md)
+
+### [Evaluation Metrics](lessons/ml/lessons/evaluation_metrices/readme.md)
 
 ### Trends and Future Directions
 - Case-specific: 
