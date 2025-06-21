@@ -1,6 +1,6 @@
 ## AI
 
-### Artificial Intelligence (AI)
+### [Artificial Intelligence (AI)](lessons/ai/readme.md)
 - [Artificial Intelligence (AI)](lessons/ai/lessons/ai/readme.md)
 - [Definition of AI](lessons/ai/lessons/definition/readme.md)
 - [Goals of AI](lessons/ai/lessons/goals/readme.md)
@@ -15,7 +15,7 @@
 - [Related Fields](lessons/ai/lessons/related_fields/readme.md)
 - [Trends and Future Directions](lessons/ai/lessons/trends_future_directions/readme.md)
 
-### Machine Learning(ML)
+### [Machine Learning(ML)](lessons/ml/readme.md)
 - [Machine Learning(ML)](lessons/ml/lessons/ml/readme.md)
 - [Definition](lessons/ml/lessons/definition/readme.md)
 - [Core Components](lessons/ml/lessons/core_components/readme.md)
@@ -37,7 +37,7 @@
 - [Structure of ML project](lessons/ml/lessons/project_structure/readme.md)
 - [Ensemble](lessons/ml/lessons/ensemble/readme.md)
 
-### Deep Learning (DL)
+### [Deep Learning (DL)](lessons/dl/readme.md)
 - [Deep Learning (DL)](lessons/dl/lessons/dl/readme.md)
 - [Definition](lessons/dl/lessons/definition/readme.md)
 - [Core Characteristics](lessons/dl/lessons/core_characteristics/readme.md)
